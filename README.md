@@ -47,9 +47,14 @@ Prevention and Precautions
 
 # REFERENCES
 ```
-[1]	A. M. Khan, H. M. M. Ismail, and A. K. H. Al-Sadi, “Predicting thyroid disease using machine learning techniques,” in 2021 IEEE International Conference on Artificial Intelligence, Big Data, and Data Science (AIBD), pp. 120-125, IEEE, 2021.
-[2]	J. Smith, R. J. Fuchs, and M. K. Peters, “Comparative analysis of machine learning algorithms for thyroid disorder classification,” in 2020 International Conference on Machine Learning and Data Science (ICMLDS), pp. 200-205, IEEE, 2020.
-[3]	 L. R. Chang, P. D. Gupta, and S. J. H. Wang, “Feature selection for thyroid disease classification using ensemble methods,” in 2022 IEEE Conference on Computational Intelligence in Healthcare and e-Health (CICHeH), pp. 85-90, IEEE, 2022.
+[1]	A. M. Khan, H. M. M. Ismail, and A. K. H. Al-Sadi, “Predicting thyroid disease using machine learning techniques,”
+in 2021 IEEE International Conference on Artificial Intelligence, Big Data, and Data Science (AIBD), pp. 120-125, IEEE, 2021.
+[2]	J. Smith, R. J. Fuchs, and M. K. Peters, “Comparative analysis of machine learning algorithms for
+ thyroid disorder classification,” in 2020 International Conference on Machine Learning and Data Science (ICMLDS),
+ pp. 200-205, IEEE, 2020.
+[3]	 L. R. Chang, P. D. Gupta, and S. J. H. Wang, “Feature selection for thyroid disease classification
+using ensemble methods,” in 2022 IEEE Conference on Computational Intelligence in Healthcare and e-Health (CICHeH),
+pp. 85-90, IEEE, 2022.
 ```
 
 
